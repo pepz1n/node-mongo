@@ -1,11 +1,11 @@
 # Node + MongoDB
 ## Repositório para testes com o mongo.
 
+* **Instalar Dependências;**
 ```shell
-  #Instalar Dependências
   npm install
 ```
+* **Rodar;**
 ```shell
-  #Rodar
   npm run dev
 ```
