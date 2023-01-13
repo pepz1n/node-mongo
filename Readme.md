@@ -9,3 +9,8 @@
 ```shell
   npm run dev
 ```
+* **ENV**
+```
+  LINK_DB=<SEU BANCO MONGO>
+  PORT=3000
+```
