@@ -1,3 +1,4 @@
+import autores from "./autoresRoutes.js";
 import livros from "./livrosRoutes.js";
 // import Express from "express";
 
@@ -10,6 +11,7 @@ import livros from "./livrosRoutes.js";
 
 function routes (app) {
   livros(app);
+  autores(app);
 }
 
 export default routes;
